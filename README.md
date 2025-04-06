@@ -47,9 +47,9 @@ Our AI-powered content moderation tool uses *multimodal learning* (text, audio, 
 - Notifies users why their content was flagged and educates them about *community guidelines*.
 
 ---
-![System Architecture Diagram](assets/image.png)
 ## 🏗 Architecture
 
+![Alt text](Solution/image.png)
 The system processes each modality (*text, image, and audio) separately, then consolidates the results for a final classification. It includes a **user interface* for moderation and user notifications, powered by a robust *backend*.
 
 ---
