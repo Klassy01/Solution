@@ -71,7 +71,7 @@ The system processes each modality (*text, image, and audio) separately, then co
 ## 🔗 Links
 
 - *GitHub Repository:* [https://github.com/Klassy01/Solution]
-- *Demo Video:* Coming Soon  
+- *Demo Video:* [https://drive.google.com/drive/folders/1vbBmWBSHB4donErYnpyH3_-_KwiT55Re] 
 - *MVP Link:* [https://sociify.netlify.app/] 
 
 ---
@@ -88,6 +88,13 @@ The system processes each modality (*text, image, and audio) separately, then co
 
 MVP snapshots available in the presentation slides.
 
+![Alt text](images/MVP.png)
+
 ---
+snapshots of model classification available in the presentation slides.
+
+![Alt text](images/Model.png)
+
+![Alt text](images/Model2.png)
 
 Thank you for exploring our solution to scale trust in digital communities.
